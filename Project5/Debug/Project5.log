@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\pavlushko\source\repos\project5\project5\source.cpp(77): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\pavlushko\source\repos\project5\project5\source.cpp(112): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Project5.vcxproj -> C:\Users\Pavlushko\source\repos\Project5\Debug\Project5.exe
